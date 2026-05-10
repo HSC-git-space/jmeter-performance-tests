@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1778410047212,1549,GET - Find Pets by Status,200,OK,Thread Group 1-1,text,true,,82492,157,4,4,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1305,0,845
+1778410048763,225,POST - Create Pet,200,OK,Thread Group 1-1,text,true,,413,248,4,4,https://petstore.swagger.io/v2/pet,224,0,0
+1778410047711,1295,GET - Find Pets by Status,200,OK,Thread Group 1-2,text,true,,82492,157,3,3,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1079,0,649
+1778410049007,214,POST - Create Pet,200,OK,Thread Group 1-2,text,true,,413,248,4,4,https://petstore.swagger.io/v2/pet,214,0,0
+1778410048212,1451,GET - Find Pets by Status,200,OK,Thread Group 1-3,text,true,,82492,157,3,3,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1217,0,749
+1778410049664,232,POST - Create Pet,200,OK,Thread Group 1-3,text,true,,413,248,4,4,https://petstore.swagger.io/v2/pet,232,0,0
+1778410048710,1367,GET - Find Pets by Status,200,OK,Thread Group 1-4,text,true,,82492,157,3,3,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1134,0,677
+1778410050078,222,POST - Create Pet,200,OK,Thread Group 1-4,text,true,,413,248,4,4,https://petstore.swagger.io/v2/pet,220,0,0
+1778410049210,1368,GET - Find Pets by Status,200,OK,Thread Group 1-5,text,true,,82352,157,3,3,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1134,0,680
+1778410050579,227,POST - Create Pet,200,OK,Thread Group 1-5,text,true,,413,248,4,4,https://petstore.swagger.io/v2/pet,227,0,0
+1778410049713,1372,GET - Find Pets by Status,200,OK,Thread Group 1-6,text,true,,82352,157,3,3,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1147,0,685
+1778410051085,226,POST - Create Pet,200,OK,Thread Group 1-6,text,true,,413,248,4,4,https://petstore.swagger.io/v2/pet,226,0,0
+1778410050213,1376,GET - Find Pets by Status,200,OK,Thread Group 1-7,text,true,,82352,157,3,3,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1146,0,693
+1778410051590,225,POST - Create Pet,200,OK,Thread Group 1-7,text,true,,413,248,4,4,https://petstore.swagger.io/v2/pet,225,0,0
+1778410050714,1364,GET - Find Pets by Status,200,OK,Thread Group 1-8,text,true,,82355,157,3,3,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1135,0,682
+1778410052079,228,POST - Create Pet,200,OK,Thread Group 1-8,text,true,,413,248,3,3,https://petstore.swagger.io/v2/pet,227,0,0
+1778410051224,1405,GET - Find Pets by Status,200,OK,Thread Group 1-9,text,true,,82352,157,2,2,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1175,0,692
+1778410052630,225,POST - Create Pet,200,OK,Thread Group 1-9,text,true,,413,248,2,2,https://petstore.swagger.io/v2/pet,225,0,0
+1778410051727,1431,GET - Find Pets by Status,200,OK,Thread Group 1-10,text,true,,82352,157,1,1,https://petstore.swagger.io/v2/pet/findByStatus?status=available,1190,0,713
+1778410053159,240,POST - Create Pet,200,OK,Thread Group 1-10,text,true,,413,248,1,1,https://petstore.swagger.io/v2/pet,240,0,0
